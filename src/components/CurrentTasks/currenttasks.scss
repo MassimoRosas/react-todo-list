@@ -1,0 +1,12 @@
+@import 'src/styles/vars';
+
+.currenttasks-counter {
+    color: $lightColor;
+    text-align: left;
+    margin-top: 3em;
+    border-bottom: $lightColor 1px solid;
+    font-size: 1.6em;
+    font-weight: bold;
+    padding-bottom: 0.5em;
+    margin-bottom: 0.8em;
+}

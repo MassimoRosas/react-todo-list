@@ -1,0 +1,11 @@
+@import 'src/styles/vars';
+
+.taskadd-input {
+    background-color: $altColor;
+    width: 100%;
+    font-size: 1.6em;
+    padding: 1.2em;
+    border: none;
+    font-weight: bold;
+    color: $lightColor;
+}
